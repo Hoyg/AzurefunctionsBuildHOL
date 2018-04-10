@@ -270,7 +270,7 @@ Although we have used a simple condition here, this could also use more complex 
 1. You now see all the tasks that were automatically added to the build definition by the template. These are the steps that will automatically run every time you push code changes.
     
       ![buildtasks](images/buildtasks.png)
-1. Select **Publish** task. Uncheck the **Publish Web Projects** field and enter ****/*.csproj** in **Path to Projects** filed.
+1. Select **Publish** task. Uncheck the **Publish Web Projects** field and enter *\**/*.csproj** in **Path to Projects** filed.
 
 
    ![buildpublishtask](images/buildpublishtask.png)
